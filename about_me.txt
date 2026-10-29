@@ -1,2 +1,3 @@
 My name is Oleksandr.
 I like programming.
+My favorite animal is a cat.
